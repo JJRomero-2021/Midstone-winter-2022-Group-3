@@ -1,0 +1,8 @@
+[INFO]: Starting the GameSceneManager
+[INFO]: OpenGL version: 4.6.0 NVIDIA 497.29
+[INFO]: Graphics card vendor NVIDIA Corporation
+[INFO]: Graphics card name NVIDIA GeForce RTX 2080 SUPER/PCIe/SSE2
+[INFO]: GLSL Version 4.60 NVIDIA
+[INFO]: Created Scene0: 
+[INFO]: Created Scene0: 
+[INFO]: Deleting the GameSceneManager
